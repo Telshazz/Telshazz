@@ -35,8 +35,8 @@ Governed ROM / SOW / proposal / DOCX workflows · CRM-grounded sales prep · spr
 
 Most client and employer work stays private by design. Public proof points:
 
-- [SmartGPT Automations](https://www.smartgptautomations.com) — AI automation products and services
-- [LinkedIn](https://www.linkedin.com/in/travis-cochran-02a19627a) — role history and background
+- [SmartGPT Automations](https://www.smartgptautomations.com), AI automation products and services
+- [LinkedIn](https://www.linkedin.com/in/travis-cochran-02a19627a), role history and background
 
 ## Open to
 
