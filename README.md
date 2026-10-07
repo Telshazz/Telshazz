@@ -40,7 +40,7 @@ Most client and employer work stays private by design. Public proof points:
 
 ## Open to
 
-Remote Senior AI / Head of AI / VP AI / AI Solutions leadership roles.
+Advisory, consulting, and collaboration on enterprise AI and agent systems.
 
 ## Contact
 
