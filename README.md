@@ -1,19 +1,24 @@
 # Travis Cochran
 
-Senior AI Solutions Engineer. I design and ship agent workflows, RAG systems, and governed automation that real teams can run without me in the loop.
+Senior AI Solutions Engineer for enterprise teams. I design and ship agent workflows, RAG systems, and governed automation that real teams can run without me in the loop.
 
 ## What I do
 
 - Design and ship AI agent workflows and automations for business operations
-- Build RAG and multi-model stacks (OpenAI, Claude, Gemini)
-- Ship Node.js backends on Firebase and Supabase
+- Build RAG, MCP/tool calling, and multi-model stacks (OpenAI, Claude, Gemini)
+- Ship Python/FastAPI and Node.js / TypeScript backends on Firebase and Supabase
+- Integrate enterprise systems (Microsoft 365, HubSpot, HRIS/PSA, Teams, SharePoint)
 - Set standards for reviewable, draft-first automation (approve / edit / reject with an audit trail)
 - Founder & CEO, [SmartGPT Automations](https://www.smartgptautomations.com)
 - Co-Founder / Product, Winning Edge AI
 
 ## Stack
 
-`OpenAI` · `Claude` · `Gemini` · `Node.js` · `Firebase` · `Supabase` · Agents · RAG
+**Models & agents:** OpenAI · Claude · Gemini · LangChain · AutoGen · MCP / tool calling · RAG · human-in-the-loop
+
+**Engineering & cloud:** Python · FastAPI · Node.js · TypeScript · Pydantic · SQLAlchemy · Firebase · Supabase · Vercel · Render · Railway
+
+**Enterprise integration & automation:** Microsoft Graph · HubSpot · Unanet · iSolved · Teams · Excel/SharePoint · Make.com · n8n · Zapier · Vapi · Retell · ElevenLabs · Twilio
 
 ## Selected work
 
